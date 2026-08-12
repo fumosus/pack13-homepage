@@ -1,0 +1,847 @@
+{
+  "source": "https://api.scouting.org/advancements/events/calendar/21452",
+  "generatedAt": "2026-08-12T21:53:16Z",
+  "timezone": "America/Chicago",
+  "events": [
+    {
+      "id": "6517329",
+      "title": "August Hiking Club",
+      "start": "2025-08-17T15:00:00Z",
+      "end": "2025-08-17T18:00:00Z",
+      "startLocal": "2025-08-17T10:00:00",
+      "endLocal": "2025-08-17T13:00:00",
+      "location": "Matthiessen State Park, 2500 IL-178, Oglesby, IL 61348",
+      "url": "https://advancements.scouting.org/calendar/event/6517329"
+    },
+    {
+      "id": "6517326",
+      "title": "August Fishing Club",
+      "start": "2025-08-23T14:00:00Z",
+      "end": "2025-08-23T16:00:00Z",
+      "startLocal": "2025-08-23T09:00:00",
+      "endLocal": "2025-08-23T11:00:00",
+      "location": "Hidden Lakes Historic Trout Farm, 475 Trout Farm Rd, Bolingbrook, IL  60440",
+      "url": "https://advancements.scouting.org/calendar/event/6517326"
+    },
+    {
+      "id": "6516973",
+      "title": "Pack Kickoff Campout",
+      "start": "2025-08-29T20:00:00Z",
+      "end": "2025-08-31T15:00:00Z",
+      "startLocal": "2025-08-29T15:00:00",
+      "endLocal": "2025-08-31T10:00:00",
+      "location": "Hoover Forest Preserve, 11285 W Fox Rd, Yorkville, IL 60560",
+      "url": "https://advancements.scouting.org/calendar/event/6516973"
+    },
+    {
+      "id": "6517194",
+      "title": "Pack Olympics",
+      "start": "2025-08-30T18:00:00Z",
+      "end": "2025-08-30T23:00:00Z",
+      "startLocal": "2025-08-30T13:00:00",
+      "endLocal": "2025-08-30T18:00:00",
+      "location": "Hoover Forest Preserve, 11285 W Fox Rd, Yorkville, IL 60560",
+      "url": "https://advancements.scouting.org/calendar/event/6517194"
+    },
+    {
+      "id": "6610828",
+      "title": "Committee Meeting - Parents Welcome!",
+      "start": "2025-09-04T23:30:00Z",
+      "end": "2025-09-05T01:00:00Z",
+      "startLocal": "2025-09-04T18:30:00",
+      "endLocal": "2025-09-04T20:00:00",
+      "location": "Panera Bread - 2360 S Rte 59, Plainfield (corner of 59 & Caton Farm)",
+      "url": "https://advancements.scouting.org/calendar/event/6610828"
+    },
+    {
+      "id": "6631501",
+      "title": "Bear Den Meeting",
+      "start": "2025-09-12T23:30:00Z",
+      "end": "2025-09-13T00:45:00Z",
+      "startLocal": "2025-09-12T18:30:00",
+      "endLocal": "2025-09-12T19:45:00",
+      "location": "Hammel Woods Crumby Recreation Area, 23601 W Black Rd, Shorewood, IL 60431",
+      "url": "https://advancements.scouting.org/calendar/event/6631501"
+    },
+    {
+      "id": "6631552",
+      "title": "Hiking Club-CANCELED",
+      "start": "2025-09-13T14:00:00Z",
+      "end": "2025-09-13T16:00:00Z",
+      "startLocal": "2025-09-13T09:00:00",
+      "endLocal": "2025-09-13T11:00:00",
+      "location": "Arroyo Trails, 25731 W Silver Leaf Circle, Channahon, IL 60410",
+      "url": "https://advancements.scouting.org/calendar/event/6631552"
+    },
+    {
+      "id": "6631622",
+      "title": "September Fishing Club",
+      "start": "2025-09-14T15:00:00Z",
+      "end": "2025-09-14T17:00:00Z",
+      "startLocal": "2025-09-14T10:00:00",
+      "endLocal": "2025-09-14T12:00:00",
+      "location": "Heritage Quarries Recreation Area, 1001 Main St, Lemont, IL 60439",
+      "url": "https://advancements.scouting.org/calendar/event/6631622"
+    },
+    {
+      "id": "6631526",
+      "title": "Pack Meeting",
+      "start": "2025-09-16T23:30:00Z",
+      "end": "2025-09-17T01:00:00Z",
+      "startLocal": "2025-09-16T18:30:00",
+      "endLocal": "2025-09-16T20:00:00",
+      "location": "American Legion Plainfield",
+      "url": "https://advancements.scouting.org/calendar/event/6631526"
+    },
+    {
+      "id": "6631635",
+      "title": "September Hiking Club",
+      "start": "2025-09-20T15:00:00Z",
+      "end": "2025-09-20T17:00:00Z",
+      "startLocal": "2025-09-20T10:00:00",
+      "endLocal": "2025-09-20T12:00:00",
+      "location": "Red Oak Nature Center, 930 N River Rd, North Aurora, IL 60542",
+      "url": "https://advancements.scouting.org/calendar/event/6631635"
+    },
+    {
+      "id": "6610769",
+      "title": "RESCHEDULED: Committee Meeting - Parents Welcome!",
+      "start": "2025-10-09T23:30:00Z",
+      "end": "2025-10-10T01:00:00Z",
+      "startLocal": "2025-10-09T18:30:00",
+      "endLocal": "2025-10-09T20:00:00",
+      "location": "Panera Bread - 2360 S Rte 59, Plainfield (corner of 59 & Caton Farm)",
+      "url": "https://advancements.scouting.org/calendar/event/6610769"
+    },
+    {
+      "id": "6700249",
+      "title": "October Hiking Club",
+      "start": "2025-10-19T14:00:00Z",
+      "end": "2025-10-19T16:00:00Z",
+      "startLocal": "2025-10-19T09:00:00",
+      "endLocal": "2025-10-19T11:00:00",
+      "location": "Knoch Knolls Nature Center, 320 Knoch Knolls Rd, Naperville, IL 60565",
+      "url": "https://advancements.scouting.org/calendar/event/6700249"
+    },
+    {
+      "id": "6688228",
+      "title": "Pack Night",
+      "start": "2025-10-21T23:30:00Z",
+      "end": "2025-10-22T01:00:00Z",
+      "startLocal": "2025-10-21T18:30:00",
+      "endLocal": "2025-10-21T20:00:00",
+      "location": "American Legion Plainfield",
+      "url": "https://advancements.scouting.org/calendar/event/6688228"
+    },
+    {
+      "id": "6688215",
+      "title": "Rainbow Council COPE-a palooza",
+      "start": "2025-10-25T14:00:00Z",
+      "end": "2025-10-25T21:00:00Z",
+      "startLocal": "2025-10-25T09:00:00",
+      "endLocal": "2025-10-25T16:00:00",
+      "location": "Rainbow Scout Reservation, 2600 Winterbottom Rd, Morris, IL",
+      "url": "https://advancements.scouting.org/calendar/event/6688215"
+    },
+    {
+      "id": "6688212",
+      "title": "Rainbow Council Haunted Woods Walk",
+      "start": "2025-10-25T22:00:00Z",
+      "end": "2025-10-26T02:30:00Z",
+      "startLocal": "2025-10-25T17:00:00",
+      "endLocal": "2025-10-25T21:30:00",
+      "location": "Rainbow Scout Reservation, 2600 Winterbottom Rd, Morris, IL",
+      "url": "https://advancements.scouting.org/calendar/event/6688212"
+    },
+    {
+      "id": "6710330",
+      "title": "Bear Den Meeting",
+      "start": "2025-10-27T23:30:00Z",
+      "end": "2025-10-28T00:45:00Z",
+      "startLocal": "2025-10-27T18:30:00",
+      "endLocal": "2025-10-27T19:45:00",
+      "location": "23425 W McClintock Rd, Channahon, IL 60410",
+      "url": "https://advancements.scouting.org/calendar/event/6710330"
+    },
+    {
+      "id": "6477518",
+      "title": "Chicago Wolves game",
+      "start": "2025-11-01T23:30:00Z",
+      "end": "2025-11-02T03:00:00Z",
+      "startLocal": "2025-11-01T18:30:00",
+      "endLocal": "2025-11-01T22:00:00",
+      "location": "Allstate Arena, 6920 Mannheim Rd, Rosemont, IL 60018",
+      "url": "https://advancements.scouting.org/calendar/event/6477518"
+    },
+    {
+      "id": "6688226",
+      "title": "Rainbow Council Swimming",
+      "start": "2025-11-02T21:30:00Z",
+      "end": "2025-11-02T23:30:00Z",
+      "startLocal": "2025-11-02T15:30:00",
+      "endLocal": "2025-11-02T17:30:00",
+      "location": "CW Avery YMCA, 15120 Wallin Dr, Plainfield, IL",
+      "url": "https://advancements.scouting.org/calendar/event/6688226"
+    },
+    {
+      "id": "6610831",
+      "title": "Committee Meeting - Parents Welcome!",
+      "start": "2025-11-07T01:00:00Z",
+      "end": "2025-11-07T02:00:00Z",
+      "startLocal": "2025-11-06T19:00:00",
+      "endLocal": "2025-11-06T20:00:00",
+      "location": "Panera Bread - 2360 S Rte 59, Plainfield (corner of 59 & Caton Farm)",
+      "url": "https://advancements.scouting.org/calendar/event/6610831"
+    },
+    {
+      "id": "6688219",
+      "title": "Rainbow Council Fossil Hunt",
+      "start": "2025-11-08T15:00:00Z",
+      "end": "2025-11-08T18:00:00Z",
+      "startLocal": "2025-11-08T09:00:00",
+      "endLocal": "2025-11-08T12:00:00",
+      "location": "Mazonia-Braidwood State Fish and Wildlife Area, Eagle Lake Parking Lot (7705 E. Hudson Rd., Braceville, IL)",
+      "url": "https://advancements.scouting.org/calendar/event/6688219"
+    },
+    {
+      "id": "6734541",
+      "title": "Hiking Club",
+      "start": "2025-11-09T16:00:00Z",
+      "end": "2025-11-09T18:00:00Z",
+      "startLocal": "2025-11-09T10:00:00",
+      "endLocal": "2025-11-09T12:00:00",
+      "location": "25731 W Silver Leaf Cir, Channahon, IL 60410",
+      "url": "https://advancements.scouting.org/calendar/event/6734541"
+    },
+    {
+      "id": "6688236",
+      "title": "Pack Night",
+      "start": "2025-11-19T00:30:00Z",
+      "end": "2025-11-19T02:00:00Z",
+      "startLocal": "2025-11-18T18:30:00",
+      "endLocal": "2025-11-18T20:00:00",
+      "location": "American Legion Plainfield",
+      "url": "https://advancements.scouting.org/calendar/event/6688236"
+    },
+    {
+      "id": "6734553",
+      "title": "November Hiking Club",
+      "start": "2025-11-22T16:00:00Z",
+      "end": "2025-11-22T19:00:00Z",
+      "startLocal": "2025-11-22T10:00:00",
+      "endLocal": "2025-11-22T13:00:00",
+      "location": "Midewin National Tallgrass Prairie, Iron Bridge Trailhead, Wilmington, IL 60421",
+      "url": "https://advancements.scouting.org/calendar/event/6734553"
+    },
+    {
+      "id": "6767219",
+      "title": "Committee Meeting - Parents Welcome!",
+      "start": "2025-12-04T00:30:00Z",
+      "end": "2025-12-04T02:00:00Z",
+      "startLocal": "2025-12-03T18:30:00",
+      "endLocal": "2025-12-03T20:00:00",
+      "location": "Panera Bread - 2360 S Rte 59, Plainfield (corner of 59 & Caton Farm)",
+      "url": "https://advancements.scouting.org/calendar/event/6767219"
+    },
+    {
+      "id": "6767227",
+      "title": "Committee Meeting - Parents Welcome!",
+      "start": "2025-12-04T00:30:00Z",
+      "end": "2025-12-04T02:00:00Z",
+      "startLocal": "2025-12-03T18:30:00",
+      "endLocal": "2025-12-03T20:00:00",
+      "location": "Panera Bread - 2360 S Rte 59, Plainfield (corner of 59 & Caton Farm)",
+      "url": "https://advancements.scouting.org/calendar/event/6767227"
+    },
+    {
+      "id": "6767228",
+      "title": "Committee Meeting - Parents Welcome!",
+      "start": "2025-12-04T00:30:00Z",
+      "end": "2025-12-04T02:00:00Z",
+      "startLocal": "2025-12-03T18:30:00",
+      "endLocal": "2025-12-03T20:00:00",
+      "location": "Panera Bread - 2360 S Rte 59, Plainfield (corner of 59 & Caton Farm)",
+      "url": "https://advancements.scouting.org/calendar/event/6767228"
+    },
+    {
+      "id": "6767214",
+      "title": "Committee Meeting - Parents Welcome!",
+      "start": "2025-12-05T00:30:00Z",
+      "end": "2025-12-05T02:00:00Z",
+      "startLocal": "2025-12-04T18:30:00",
+      "endLocal": "2025-12-04T20:00:00",
+      "location": "Panera Bread - 2360 S Rte 59, Plainfield (corner of 59 & Caton Farm)",
+      "url": "https://advancements.scouting.org/calendar/event/6767214"
+    },
+    {
+      "id": "6709018",
+      "title": "Grinchmas on the Green (RESCHEDULED)",
+      "start": "2025-12-06T22:00:00Z",
+      "end": "2025-12-07T01:00:00Z",
+      "startLocal": "2025-12-06T16:00:00",
+      "endLocal": "2025-12-06T19:00:00",
+      "location": "24121 Chicago St, Plainfield, IL 60544",
+      "url": "https://advancements.scouting.org/calendar/event/6709018"
+    },
+    {
+      "id": "6767232",
+      "title": "Pack Night",
+      "start": "2025-12-17T00:30:00Z",
+      "end": "2025-12-17T02:00:00Z",
+      "startLocal": "2025-12-16T18:30:00",
+      "endLocal": "2025-12-16T20:00:00",
+      "location": "American Legion - 24741 Renwick Rd, Plainfield, IL 60544",
+      "url": "https://advancements.scouting.org/calendar/event/6767232"
+    },
+    {
+      "id": "6734606",
+      "title": "Canceled-December Hiking Club",
+      "start": "2025-12-28T16:30:00Z",
+      "end": "2025-12-28T18:30:00Z",
+      "startLocal": "2025-12-28T10:30:00",
+      "endLocal": "2025-12-28T12:30:00",
+      "location": "1300 N 27th Rd, Ottawa, IL",
+      "url": "https://advancements.scouting.org/calendar/event/6734606"
+    },
+    {
+      "id": "6767216",
+      "title": "Committee Meeting (2nd Thursday due to holiday)",
+      "start": "2026-01-09T00:30:00Z",
+      "end": "2026-01-09T02:00:00Z",
+      "startLocal": "2026-01-08T18:30:00",
+      "endLocal": "2026-01-08T20:00:00",
+      "location": "Panera Bread - 2360 S Rte 59, Plainfield (corner of 59 & Caton Farm)",
+      "url": "https://advancements.scouting.org/calendar/event/6767216"
+    },
+    {
+      "id": "6824065",
+      "title": "Pack Night",
+      "start": "2026-01-21T00:30:00Z",
+      "end": "2026-01-21T02:00:00Z",
+      "startLocal": "2026-01-20T18:30:00",
+      "endLocal": "2026-01-20T20:00:00",
+      "location": "American Legion - 24741 Renwick Rd, Plainfield, IL 60544",
+      "url": "https://advancements.scouting.org/calendar/event/6824065"
+    },
+    {
+      "id": "6689334",
+      "title": "Pinewood Derby",
+      "start": "2026-01-25T18:00:00Z",
+      "end": "2026-01-25T21:00:00Z",
+      "startLocal": "2026-01-25T12:00:00",
+      "endLocal": "2026-01-25T15:00:00",
+      "location": "American Legion Plainfield",
+      "url": "https://advancements.scouting.org/calendar/event/6689334"
+    },
+    {
+      "id": "6824085",
+      "title": "January Hiking Club",
+      "start": "2026-01-31T16:00:00Z",
+      "end": "2026-01-31T19:00:00Z",
+      "startLocal": "2026-01-31T10:00:00",
+      "endLocal": "2026-01-31T13:00:00",
+      "location": "Location was not specified",
+      "url": "https://advancements.scouting.org/calendar/event/6824085"
+    },
+    {
+      "id": "6844871",
+      "title": "Tiger Den Meeting",
+      "start": "2026-02-02T23:45:00Z",
+      "end": "2026-02-03T00:45:00Z",
+      "startLocal": "2026-02-02T17:45:00",
+      "endLocal": "2026-02-02T18:45:00",
+      "location": "23425 W McClintock Rd, Channahon, IL 6041",
+      "url": "https://advancements.scouting.org/calendar/event/6844871"
+    },
+    {
+      "id": "6767221",
+      "title": "Committee Meeting - Parents Welcome!",
+      "start": "2026-02-06T00:30:00Z",
+      "end": "2026-02-06T02:00:00Z",
+      "startLocal": "2026-02-05T18:30:00",
+      "endLocal": "2026-02-05T20:00:00",
+      "location": "Panera Bread - 2360 S Rte 59, Plainfield (corner of 59 & Caton Farm)",
+      "url": "https://advancements.scouting.org/calendar/event/6767221"
+    },
+    {
+      "id": "6824101",
+      "title": "Feed My Starving Children",
+      "start": "2026-02-08T01:15:00Z",
+      "end": "2026-02-08T02:45:00Z",
+      "startLocal": "2026-02-07T19:15:00",
+      "endLocal": "2026-02-07T20:45:00",
+      "location": "555 Exchange Ct, Aurora, IL 60504",
+      "url": "https://advancements.scouting.org/calendar/event/6824101"
+    },
+    {
+      "id": "6824114",
+      "title": "CANCELED - February Hiking Club",
+      "start": "2026-02-15T19:00:00Z",
+      "end": "2026-02-15T21:00:00Z",
+      "startLocal": "2026-02-15T13:00:00",
+      "endLocal": "2026-02-15T15:00:00",
+      "location": "9755 S Will Cook Rd, Willow Springs, IL 60480",
+      "url": "https://advancements.scouting.org/calendar/event/6824114"
+    },
+    {
+      "id": "6861194",
+      "title": "Tiger Den Meeting",
+      "start": "2026-02-19T00:00:00Z",
+      "end": "2026-02-19T01:00:00Z",
+      "startLocal": "2026-02-18T18:00:00",
+      "endLocal": "2026-02-18T19:00:00",
+      "location": "5105 Prestwick Ct, Plainfield, IL 60586",
+      "url": "https://advancements.scouting.org/calendar/event/6861194"
+    },
+    {
+      "id": "6689336",
+      "title": "Blue and Gold Ceremony",
+      "start": "2026-02-22T19:00:00Z",
+      "end": "2026-02-22T21:00:00Z",
+      "startLocal": "2026-02-22T13:00:00",
+      "endLocal": "2026-02-22T15:00:00",
+      "location": "American Legion Plainfield",
+      "url": "https://advancements.scouting.org/calendar/event/6689336"
+    },
+    {
+      "id": "6767222",
+      "title": "Committee Meeting - Parents Welcome!",
+      "start": "2026-03-06T00:30:00Z",
+      "end": "2026-03-06T02:00:00Z",
+      "startLocal": "2026-03-05T18:30:00",
+      "endLocal": "2026-03-05T20:00:00",
+      "location": "Panera Bread - 2360 S Rte 59, Plainfield (corner of 59 & Caton Farm)",
+      "url": "https://advancements.scouting.org/calendar/event/6767222"
+    },
+    {
+      "id": "6861203",
+      "title": "Tiger Den Outing",
+      "start": "2026-03-11T23:00:00Z",
+      "end": "2026-03-12T00:00:00Z",
+      "startLocal": "2026-03-11T18:00:00",
+      "endLocal": "2026-03-11T19:00:00",
+      "location": "23806 W 135th St, Plainfield, IL 60544",
+      "url": "https://advancements.scouting.org/calendar/event/6861203"
+    },
+    {
+      "id": "6894894",
+      "title": "Tiger Den Meeting",
+      "start": "2026-03-14T18:00:00Z",
+      "end": "2026-03-14T19:30:00Z",
+      "startLocal": "2026-03-14T13:00:00",
+      "endLocal": "2026-03-14T14:30:00",
+      "location": "Hammel Woods, Crumby Recreation Area, 23601 W Black Road, Shorewood, IL 60404",
+      "url": "https://advancements.scouting.org/calendar/event/6894894"
+    },
+    {
+      "id": "6894895",
+      "title": "Bear Den Meeting",
+      "start": "2026-03-14T18:00:00Z",
+      "end": "2026-03-14T19:30:00Z",
+      "startLocal": "2026-03-14T13:00:00",
+      "endLocal": "2026-03-14T14:30:00",
+      "location": "Hammel Woods, Crumby Recreation Area, 23601 W Black Road, Shorewood, IL 60404",
+      "url": "https://advancements.scouting.org/calendar/event/6894895"
+    },
+    {
+      "id": "6894896",
+      "title": "Webelos Den Meeting",
+      "start": "2026-03-14T18:00:00Z",
+      "end": "2026-03-14T19:30:00Z",
+      "startLocal": "2026-03-14T13:00:00",
+      "endLocal": "2026-03-14T14:30:00",
+      "location": "Hammel Woods, Crumby Recreation Area, 23601 W Black Road, Shorewood, IL 60404",
+      "url": "https://advancements.scouting.org/calendar/event/6894896"
+    },
+    {
+      "id": "6894897",
+      "title": "Hiking Club",
+      "start": "2026-03-14T19:30:00Z",
+      "end": "2026-03-14T21:00:00Z",
+      "startLocal": "2026-03-14T14:30:00",
+      "endLocal": "2026-03-14T16:00:00",
+      "location": "Hammel Woods, Crumby Recreation Area, 23601 W Black Road, Shorewood, IL 60404",
+      "url": "https://advancements.scouting.org/calendar/event/6894897"
+    },
+    {
+      "id": "6841850",
+      "title": "Pack Night - Annual Cake Bake Auction",
+      "start": "2026-03-17T23:30:00Z",
+      "end": "2026-03-18T01:00:00Z",
+      "startLocal": "2026-03-17T18:30:00",
+      "endLocal": "2026-03-17T20:00:00",
+      "location": "Plainfield American Legion Marne Post 13",
+      "url": "https://advancements.scouting.org/calendar/event/6841850"
+    },
+    {
+      "id": "6894898",
+      "title": "Bear Den Meeting",
+      "start": "2026-03-23T23:30:00Z",
+      "end": "2026-03-24T00:45:00Z",
+      "startLocal": "2026-03-23T18:30:00",
+      "endLocal": "2026-03-23T19:45:00",
+      "location": "23425 W McClintock Rd, Channahon, IL 60410",
+      "url": "https://advancements.scouting.org/calendar/event/6894898"
+    },
+    {
+      "id": "6894899",
+      "title": "Tiger Den Meeting",
+      "start": "2026-03-26T23:00:00Z",
+      "end": "2026-03-27T00:00:00Z",
+      "startLocal": "2026-03-26T18:00:00",
+      "endLocal": "2026-03-26T19:00:00",
+      "location": "23425 W McClintock Rd, Channahon, IL 60410",
+      "url": "https://advancements.scouting.org/calendar/event/6894899"
+    },
+    {
+      "id": "6894901",
+      "title": "Bonus Hike",
+      "start": "2026-03-28T14:00:00Z",
+      "end": "2026-03-28T17:00:00Z",
+      "startLocal": "2026-03-28T09:00:00",
+      "endLocal": "2026-03-28T12:00:00",
+      "location": "Starved Rock State Park, 2678 E 873 Rd, Oglesby, IL 61348",
+      "url": "https://advancements.scouting.org/calendar/event/6894901"
+    },
+    {
+      "id": "6894902",
+      "title": "Bear Den Meeting",
+      "start": "2026-04-07T23:30:00Z",
+      "end": "2026-04-08T00:45:00Z",
+      "startLocal": "2026-04-07T18:30:00",
+      "endLocal": "2026-04-07T19:45:00",
+      "location": "23425 W McClintock Rd, Channahon, IL 60410",
+      "url": "https://advancements.scouting.org/calendar/event/6894902"
+    },
+    {
+      "id": "6767223",
+      "title": "Committee Meeting - Parents Welcome!",
+      "start": "2026-04-09T23:30:00Z",
+      "end": "2026-04-10T01:00:00Z",
+      "startLocal": "2026-04-09T18:30:00",
+      "endLocal": "2026-04-09T20:00:00",
+      "location": "Panera Bread - 2360 S Rte 59, Plainfield (corner of 59 & Caton Farm)",
+      "url": "https://advancements.scouting.org/calendar/event/6767223"
+    },
+    {
+      "id": "6894905",
+      "title": "February Makeup Hike",
+      "start": "2026-04-12T18:00:00Z",
+      "end": "2026-04-12T20:00:00Z",
+      "startLocal": "2026-04-12T13:00:00",
+      "endLocal": "2026-04-12T15:00:00",
+      "location": "Red Gate Woods, 9755 S Will Cook Rd, Willow Springs, IL 60480",
+      "url": "https://advancements.scouting.org/calendar/event/6894905"
+    },
+    {
+      "id": "6906116",
+      "title": "Pack Night at JJC Planetarium!",
+      "start": "2026-04-22T00:00:00Z",
+      "end": "2026-04-22T01:15:00Z",
+      "startLocal": "2026-04-21T19:00:00",
+      "endLocal": "2026-04-21T20:15:00",
+      "location": "Joliet Junior College Planetarium",
+      "url": "https://advancements.scouting.org/calendar/event/6906116"
+    },
+    {
+      "id": "6892851",
+      "title": "Earth Day Stewardship Workday",
+      "start": "2026-04-25T14:00:00Z",
+      "end": "2026-04-25T17:00:00Z",
+      "startLocal": "2026-04-25T09:00:00",
+      "endLocal": "2026-04-25T12:00:00",
+      "location": "Pilcher Park Nature Center, 2501 Highland Dr, Joliet, IL",
+      "url": "https://advancements.scouting.org/calendar/event/6892851"
+    },
+    {
+      "id": "6894906",
+      "title": "Bear Den Outing",
+      "start": "2026-04-27T22:45:00Z",
+      "end": "2026-04-28T00:00:00Z",
+      "startLocal": "2026-04-27T17:45:00",
+      "endLocal": "2026-04-27T19:00:00",
+      "location": "Plainfield Police Department, 14300 Coil Plus Dr, Plainfield, IL 60544",
+      "url": "https://advancements.scouting.org/calendar/event/6894906"
+    },
+    {
+      "id": "6894908",
+      "title": "Hiking Club",
+      "start": "2026-04-28T23:00:00Z",
+      "end": "2026-04-29T00:45:00Z",
+      "startLocal": "2026-04-28T18:00:00",
+      "endLocal": "2026-04-28T19:45:00",
+      "location": "Mather Woods, 25032 W Renwick Rd, Plainfield, IL 60544",
+      "url": "https://advancements.scouting.org/calendar/event/6894908"
+    },
+    {
+      "id": "6893403",
+      "title": "CANCELED - Scouts Trash the Trash Day",
+      "start": "2026-05-02T14:00:00Z",
+      "end": "2026-05-02T16:00:00Z",
+      "startLocal": "2026-05-02T09:00:00",
+      "endLocal": "2026-05-02T11:00:00",
+      "location": "Kiddie Academy Plainfield, 13703 S Rt 59, Plainfield, IL 60544",
+      "url": "https://advancements.scouting.org/calendar/event/6893403"
+    },
+    {
+      "id": "6767225",
+      "title": "Committee Meeting - Parents Welcome!",
+      "start": "2026-05-07T23:30:00Z",
+      "end": "2026-05-08T01:00:00Z",
+      "startLocal": "2026-05-07T18:30:00",
+      "endLocal": "2026-05-07T20:00:00",
+      "location": "Panera Bread - 2360 S Rte 59, Plainfield (corner of 59 & Caton Farm)",
+      "url": "https://advancements.scouting.org/calendar/event/6767225"
+    },
+    {
+      "id": "6957133",
+      "title": "May Hiking Club",
+      "start": "2026-05-22T23:00:00Z",
+      "end": "2026-05-23T00:30:00Z",
+      "startLocal": "2026-05-22T18:00:00",
+      "endLocal": "2026-05-22T19:30:00",
+      "location": "McKinley Woods",
+      "url": "https://advancements.scouting.org/calendar/event/6957133"
+    },
+    {
+      "id": "6938511",
+      "title": "Crossover Campout",
+      "start": "2026-05-29T22:00:00Z",
+      "end": "2026-05-31T16:00:00Z",
+      "startLocal": "2026-05-29T17:00:00",
+      "endLocal": "2026-05-31T11:00:00",
+      "location": "Rainbow Scout Reservation, 2600 Winterbottom Rd, Morris, IL 60450",
+      "url": "https://advancements.scouting.org/calendar/event/6938511"
+    },
+    {
+      "id": "6909315",
+      "title": "Committee Meeting - Parents Welcome!",
+      "start": "2026-06-04T23:00:00Z",
+      "end": "2026-06-05T02:00:00Z",
+      "startLocal": "2026-06-04T18:00:00",
+      "endLocal": "2026-06-04T21:00:00",
+      "location": "Cemeno's Pizza, 1630 Essington Rd, Joliet, IL",
+      "url": "https://advancements.scouting.org/calendar/event/6909315"
+    },
+    {
+      "id": "6984838",
+      "title": "Fishing Club",
+      "start": "2026-06-14T15:00:00Z",
+      "end": "2026-06-14T17:00:00Z",
+      "startLocal": "2026-06-14T10:00:00",
+      "endLocal": "2026-06-14T12:00:00",
+      "location": "Heritage Quarries Recreation Area, 227 Heritage Quarries Dr, Lemont, IL 60439",
+      "url": "https://advancements.scouting.org/calendar/event/6984838"
+    },
+    {
+      "id": "6985017",
+      "title": "Pack Night - Water Bottle Rocket Launch",
+      "start": "2026-06-16T23:30:00Z",
+      "end": "2026-06-17T01:00:00Z",
+      "startLocal": "2026-06-16T18:30:00",
+      "endLocal": "2026-06-16T20:00:00",
+      "location": "Bott Park Pavilion, 24550 W. Renwick Rd, Plainfield",
+      "url": "https://advancements.scouting.org/calendar/event/6985017"
+    },
+    {
+      "id": "6886137",
+      "title": "Pack Night at the Joliet Slammers Game!",
+      "start": "2026-06-20T23:00:00Z",
+      "end": "2026-06-21T02:00:00Z",
+      "startLocal": "2026-06-20T18:00:00",
+      "endLocal": "2026-06-20T21:00:00",
+      "location": "Joliet Slammers Stadium, 1 Mayor Art Schultz Drive, Joliet, IL",
+      "url": "https://advancements.scouting.org/calendar/event/6886137"
+    },
+    {
+      "id": "6999731",
+      "title": "Hiking Club",
+      "start": "2026-06-28T15:00:00Z",
+      "end": "2026-06-28T17:00:00Z",
+      "startLocal": "2026-06-28T10:00:00",
+      "endLocal": "2026-06-28T12:00:00",
+      "location": "Big Rock Forest Preserve, 46W072 Jericho Rd, Big Rock, IL 60511",
+      "url": "https://advancements.scouting.org/calendar/event/6999731"
+    },
+    {
+      "id": "6985083",
+      "title": "Committee Meeting - Parents Welcome!",
+      "start": "2026-07-09T23:30:00Z",
+      "end": "2026-07-10T01:00:00Z",
+      "startLocal": "2026-07-09T18:30:00",
+      "endLocal": "2026-07-09T20:00:00",
+      "location": "Panera Bread, 2360 r. Rt 59, at Caton Farm Rd, Plainfield",
+      "url": "https://advancements.scouting.org/calendar/event/6985083"
+    },
+    {
+      "id": "6985141",
+      "title": "Pack Night - Rain Gutter Regatta",
+      "start": "2026-07-21T23:30:00Z",
+      "end": "2026-07-22T01:00:00Z",
+      "startLocal": "2026-07-21T18:30:00",
+      "endLocal": "2026-07-21T20:00:00",
+      "location": "Mather Woods, 25032 W. Renwick Rd, Plainfield",
+      "url": "https://advancements.scouting.org/calendar/event/6985141"
+    },
+    {
+      "id": "7051288",
+      "title": "Hiking Club",
+      "start": "2026-07-31T23:00:00Z",
+      "end": "2026-08-01T00:30:00Z",
+      "startLocal": "2026-07-31T18:00:00",
+      "endLocal": "2026-07-31T19:30:00",
+      "location": "Joliet Junior College, 1215 Houbolt Rd, Joliet, IL 60431",
+      "url": "https://advancements.scouting.org/calendar/event/7051288"
+    },
+    {
+      "id": "6985145",
+      "title": "Committee Meeting - Parents Welcome!",
+      "start": "2026-08-06T23:30:00Z",
+      "end": "2026-08-07T01:00:00Z",
+      "startLocal": "2026-08-06T18:30:00",
+      "endLocal": "2026-08-06T20:00:00",
+      "location": "Panera Bread, 2360 r. Rt 59, at Caton Farm Rd, Plainfield",
+      "url": "https://advancements.scouting.org/calendar/event/6985145"
+    },
+    {
+      "id": "6985158",
+      "title": "Committee Meeting - Parents Welcome!",
+      "start": "2026-09-03T23:30:00Z",
+      "end": "2026-09-04T01:00:00Z",
+      "startLocal": "2026-09-03T18:30:00",
+      "endLocal": "2026-09-03T20:00:00",
+      "location": "Panera Bread, 2360 r. Rt 59, at Caton Farm Rd, Plainfield",
+      "url": "https://advancements.scouting.org/calendar/event/6985158"
+    },
+    {
+      "id": "6985162",
+      "title": "Pack Night",
+      "start": "2026-09-22T23:30:00Z",
+      "end": "2026-09-23T01:00:00Z",
+      "startLocal": "2026-09-22T18:30:00",
+      "endLocal": "2026-09-22T20:00:00",
+      "location": "American Legion Plainfield",
+      "url": "https://advancements.scouting.org/calendar/event/6985162"
+    },
+    {
+      "id": "6985159",
+      "title": "Committee Meeting - Parents Welcome!",
+      "start": "2026-10-01T23:30:00Z",
+      "end": "2026-10-02T01:00:00Z",
+      "startLocal": "2026-10-01T18:30:00",
+      "endLocal": "2026-10-01T20:00:00",
+      "location": "Panera Bread, 2360 r. Rt 59, at Caton Farm Rd, Plainfield",
+      "url": "https://advancements.scouting.org/calendar/event/6985159"
+    },
+    {
+      "id": "6985160",
+      "title": "Committee Meeting - Parents Welcome!",
+      "start": "2026-11-06T00:30:00Z",
+      "end": "2026-11-06T02:00:00Z",
+      "startLocal": "2026-11-05T18:30:00",
+      "endLocal": "2026-11-05T20:00:00",
+      "location": "Panera Bread, 2360 r. Rt 59, at Caton Farm Rd, Plainfield",
+      "url": "https://advancements.scouting.org/calendar/event/6985160"
+    },
+    {
+      "id": "6985161",
+      "title": "Committee Meeting - Parents Welcome!",
+      "start": "2026-12-04T00:30:00Z",
+      "end": "2026-12-04T02:00:00Z",
+      "startLocal": "2026-12-03T18:30:00",
+      "endLocal": "2026-12-03T20:00:00",
+      "location": "Panera Bread, 2360 r. Rt 59, at Caton Farm Rd, Plainfield",
+      "url": "https://advancements.scouting.org/calendar/event/6985161"
+    },
+    {
+      "id": "6985150",
+      "title": "Committee Meeting - Parents Welcome!",
+      "start": "2027-01-08T00:30:00Z",
+      "end": "2027-01-08T02:00:00Z",
+      "startLocal": "2027-01-07T18:30:00",
+      "endLocal": "2027-01-07T20:00:00",
+      "location": "Panera Bread, 2360 r. Rt 59, at Caton Farm Rd, Plainfield",
+      "url": "https://advancements.scouting.org/calendar/event/6985150"
+    },
+    {
+      "id": "6985148",
+      "title": "Pinewood Derby",
+      "start": "2027-01-31T16:30:00Z",
+      "end": "2027-01-31T23:00:00Z",
+      "startLocal": "2027-01-31T10:30:00",
+      "endLocal": "2027-01-31T17:00:00",
+      "location": "American Legion Plainfield",
+      "url": "https://advancements.scouting.org/calendar/event/6985148"
+    },
+    {
+      "id": "6985151",
+      "title": "Committee Meeting - Parents Welcome!",
+      "start": "2027-02-05T00:30:00Z",
+      "end": "2027-02-05T02:00:00Z",
+      "startLocal": "2027-02-04T18:30:00",
+      "endLocal": "2027-02-04T20:00:00",
+      "location": "Panera Bread, 2360 r. Rt 59, at Caton Farm Rd, Plainfield",
+      "url": "https://advancements.scouting.org/calendar/event/6985151"
+    },
+    {
+      "id": "6985152",
+      "title": "Committee Meeting - Parents Welcome!",
+      "start": "2027-03-05T00:30:00Z",
+      "end": "2027-03-05T02:00:00Z",
+      "startLocal": "2027-03-04T18:30:00",
+      "endLocal": "2027-03-04T20:00:00",
+      "location": "Panera Bread, 2360 r. Rt 59, at Caton Farm Rd, Plainfield",
+      "url": "https://advancements.scouting.org/calendar/event/6985152"
+    },
+    {
+      "id": "6985153",
+      "title": "Committee Meeting - Parents Welcome!",
+      "start": "2027-04-01T23:30:00Z",
+      "end": "2027-04-02T01:00:00Z",
+      "startLocal": "2027-04-01T18:30:00",
+      "endLocal": "2027-04-01T20:00:00",
+      "location": "Panera Bread, 2360 r. Rt 59, at Caton Farm Rd, Plainfield",
+      "url": "https://advancements.scouting.org/calendar/event/6985153"
+    },
+    {
+      "id": "6985154",
+      "title": "Committee Meeting - Parents Welcome!",
+      "start": "2027-05-06T23:30:00Z",
+      "end": "2027-05-07T01:00:00Z",
+      "startLocal": "2027-05-06T18:30:00",
+      "endLocal": "2027-05-06T20:00:00",
+      "location": "Panera Bread, 2360 r. Rt 59, at Caton Farm Rd, Plainfield",
+      "url": "https://advancements.scouting.org/calendar/event/6985154"
+    },
+    {
+      "id": "6985155",
+      "title": "Committee Meeting - Parents Welcome!",
+      "start": "2027-06-03T23:30:00Z",
+      "end": "2027-06-04T01:00:00Z",
+      "startLocal": "2027-06-03T18:30:00",
+      "endLocal": "2027-06-03T20:00:00",
+      "location": "Panera Bread, 2360 r. Rt 59, at Caton Farm Rd, Plainfield",
+      "url": "https://advancements.scouting.org/calendar/event/6985155"
+    },
+    {
+      "id": "6985156",
+      "title": "Committee Meeting - Parents Welcome!",
+      "start": "2027-07-01T23:30:00Z",
+      "end": "2027-07-02T01:00:00Z",
+      "startLocal": "2027-07-01T18:30:00",
+      "endLocal": "2027-07-01T20:00:00",
+      "location": "Panera Bread, 2360 r. Rt 59, at Caton Farm Rd, Plainfield",
+      "url": "https://advancements.scouting.org/calendar/event/6985156"
+    },
+    {
+      "id": "6985157",
+      "title": "Committee Meeting - Parents Welcome!",
+      "start": "2027-08-05T23:30:00Z",
+      "end": "2027-08-06T01:00:00Z",
+      "startLocal": "2027-08-05T18:30:00",
+      "endLocal": "2027-08-05T20:00:00",
+      "location": "Panera Bread, 2360 r. Rt 59, at Caton Farm Rd, Plainfield",
+      "url": "https://advancements.scouting.org/calendar/event/6985157"
+    }
+  ]
+}

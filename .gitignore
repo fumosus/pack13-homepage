@@ -1,0 +1,15 @@
+.DS_Store
+Thumbs.db
+*.swp
+*~
+.idea/
+.vscode/
+*.code-workspace
+
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+*.log
+pack13-homepage.zip
