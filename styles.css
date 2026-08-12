@@ -173,7 +173,8 @@ p:last-child {
   color: inherit;
 }
 
-.brand-mark {
+.brand-mark,
+.brand-mark-img {
   display: grid;
   place-items: center;
   width: 2.75rem;
@@ -188,7 +189,15 @@ p:last-child {
   flex-shrink: 0;
 }
 
-.brand-mark.small {
+.brand-mark-img {
+  display: block;
+  background: none;
+  box-shadow: none;
+  object-fit: contain;
+}
+
+.brand-mark.small,
+.brand-mark-img.small {
   width: 2.4rem;
   height: 2.4rem;
   font-size: 1rem;
